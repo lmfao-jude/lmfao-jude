@@ -2,7 +2,7 @@
 
 ## Check out my [Blooket hacks!](https://github.com/lmfao-jude/blooket-hack/)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=1000&color=F70000&multiline=true&width=600&height=100&lines=Hello+I+am+Jude;I'm+a+middle+school+student.;I+code+amazing+hacks+for+Blooket!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=1000&color=00FF00&multiline=true&width=600&height=100&lines=Hello+I+am+Jude;I'm+a+middle+school+student.;I+code+amazing+hacks+for+Blooket!)](https://git.io/typing-svg)
 
  #### I've returned now to hack some more!
  
