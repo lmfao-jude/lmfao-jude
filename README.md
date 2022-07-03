@@ -1,5 +1,7 @@
 # Lmfao - Jude
 
+## Check out my [Blooket hacks!](https://github.com/lmfao-jude/blooket-hack/)
+
  #### I've returned now to hack some more!
  
  <img alt="Followers" src="https://img.shields.io/github/followers/lmfao-jude?logo=Github&style=flat-square"/></a>
