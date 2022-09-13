@@ -16,7 +16,6 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/QS8tnfzhah" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  src="https://i.imgur.com/0uVwkoZ.png"/></a>
 </p>
 
 <br/>
